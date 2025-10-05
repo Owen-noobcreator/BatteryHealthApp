@@ -1,0 +1,14 @@
+C:\Users\owenc\BatteryHealthApp\bin\Release\net8.0-windows\BatteryHealthApp.exe
+C:\Users\owenc\BatteryHealthApp\bin\Release\net8.0-windows\BatteryHealthApp.deps.json
+C:\Users\owenc\BatteryHealthApp\bin\Release\net8.0-windows\BatteryHealthApp.runtimeconfig.json
+C:\Users\owenc\BatteryHealthApp\bin\Release\net8.0-windows\BatteryHealthApp.dll
+C:\Users\owenc\BatteryHealthApp\bin\Release\net8.0-windows\BatteryHealthApp.pdb
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.AssemblyInfoInputs.cache
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.AssemblyInfo.cs
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.csproj.CoreCompileInputs.cache
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.dll
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\refint\BatteryHealthApp.dll
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.pdb
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\BatteryHealthApp.genruntimeconfig.cache
+C:\Users\owenc\BatteryHealthApp\obj\Release\net8.0-windows\ref\BatteryHealthApp.dll
